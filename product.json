@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"double bef burger",
+        "price":200,
+        "image":"burger.png"
+    },
+      {
+        "id":2,
+        "name":"spring roll",
+        "price":150,
+        "image":"spring-roll.png"
+    },
+    {
+        "id":3,
+        "name":"chicken-roll",
+        "price":160,
+        "image":"chicken-roll.png"
+    },
+    {
+        "id":4,
+        "name":"fried chicken",
+        "price":220,
+        "image":"fried-chicken.png"
+    },
+    {
+        "id":5,
+        "name":"pizza",
+        "price":133,
+        "image":"pizza.png"
+    },
+    {
+        "id":6,
+        "name":"sandwich",
+        "price":50,
+        "image":"sandwich.png"
+    },
+    {
+        "id":7,
+        "name":"spaghetti",
+        "price":199,
+        "image":"spaghetti.png"
+    }
+
+      
+
+
+
+
+]

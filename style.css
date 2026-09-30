@@ -13,6 +13,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+}
+/* signin and login page design  */
+#loadingpage{
+display: none;
+
+}
+#loadingpage:active{
+display: contents;
+
 }
 
 html {
@@ -400,7 +410,7 @@ header {
     margin: auto;
 
     display: grid;
-
+/* display: flex; */
     grid-template-columns: repeat(4, 1fr);
 
     gap: 25px;
@@ -529,6 +539,11 @@ header {
 
 .cartlist {
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
 }
 
 
